@@ -1,2 +1,2 @@
 # INSTANT_AI_COURSE
-Repo for course tasks
+## Repo for course tasks
